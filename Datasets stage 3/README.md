@@ -12,4 +12,4 @@ To avoid flooding messages in the process bus, during the simulation, we scale u
 
 **The location and file name of each scenario or each dataset is demonstrated in "Attack Scenario details.xlsx"**
 
-For example, attack scenario 9432 has one orignal dataset called **IED_TRSF1_SV.csv**, one merged dataset called **Data.xlsx**, and two final datasets called **5_2.xlsx** and **6_2.xlsx**, in the location of /943/9432 (Add all 25ms).
+For example, attack scenario 9432 has one orignal dataset called **IED_TRSF1_SV.pcapng** and **IED_TRSF1_SV.csv**, one merged dataset called **Data.xlsx**, and two final datasets called **5_2.xlsx** and **6_2.xlsx**, in the location of /943/9432 (Add all 25ms).
